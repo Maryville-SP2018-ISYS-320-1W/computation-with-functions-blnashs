@@ -17,7 +17,7 @@
 
 /*
  3. Were you correct? Explain if you were not (what did you learn?)
- 
+ Not all the way across the board correct, I need to watch my math.
  
  */
 public class P1_MysteryReturn {
